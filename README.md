@@ -7,10 +7,10 @@ To Install Jupyter Notebook - (https://jupyter.org/install)
 
     Libraries and Packages to install in your IDE
 Type in the following commands in your jupyer notebook cells for installation
-1. Pandas - [pip install pandas] for data analysis and manipulation. 
-2. NumPy - [pip install numpy] for numerical/quantitative data manipulation.
-3. Matplotlib - [pip install matplotlib] for data visualisation and plotting.
-4. Seaborn - [pip install seaborn] for data visualisation and plotting.
+1. Pandas - `pip install pandas` for data analysis and manipulation. 
+2. NumPy - `pip install numpy` for numerical/quantitative data manipulation.
+3. Matplotlib - `pip install matplotlib` for data visualisation and plotting.
+4. Seaborn - `pip install seaborn` for data visualisation and plotting.
 
 
 
