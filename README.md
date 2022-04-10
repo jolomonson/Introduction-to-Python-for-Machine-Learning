@@ -15,7 +15,7 @@ Type in the following commands in your jupyer notebook cells for installation
 
 
 
-G
+
 
 
 
